@@ -1,5 +1,5 @@
 ## Olá!👋 eu sou o Pablo
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-br-3)](https://github.com/pablo-br-3/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=pablo-br-3)](https://github.com/pablo-br-3/github-readme-stats
 <!--
 **pablo-br-3/pablo-br-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
