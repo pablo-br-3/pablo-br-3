@@ -3,8 +3,9 @@
   Pablo | Front-End Developer
   <img src="https://img.icons8.com/ios-filled/50/ff0000/drop-of-blood.png" width="18"/>
 </h1>
-🔥 Aprendiz em HTML, CSS & JavaScript <br>
-⚔️ Evoluindo para dominar o Full Stack
+<p align="left">
+🔥Aprendiz em HTML, CSS & JavaScript <br>
+⚔️Evoluindo para dominar o Full Stack </p>
 
 ```diff
 + Nome: Pablo
