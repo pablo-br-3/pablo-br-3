@@ -5,7 +5,7 @@
 </h1>
 
 
-<p align="left" style="padding-left:0.7">
+<p align="center" >
   🔥 Aprendiz em HTML, CSS & JavaScript <br>
   ⚔️ Evoluindo para dominar o Full Stack
 </p>
