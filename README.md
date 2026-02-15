@@ -81,7 +81,7 @@ h1 {
 const username = "pablo-br-3";
 
 async function getLanguages() {
-    const repos = await fetch(`https://api.github.com/users/${username}/repos?per_page=100`)
+    const repos = await fetch(`https://api.github.com/users/${pablo-br-3}/repos?per_page=100`)
         .then(res => res.json());
 
     let languageCount = {};
