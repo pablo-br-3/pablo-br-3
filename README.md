@@ -1,16 +1,30 @@
-## Olá!👋 eu sou o Pablo
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-br-3)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**pablo-br-3/pablo-br-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🧝‍♂️ Pablo — Dark Elf  🩸</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌑 Front-End Developer das Sombras <br>
+  🔥 Aprendiz em HTML, CSS & JavaScript <br>
+  ⚔️ Evoluindo para dominar o Full Stack
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🩸 Lore do Desenvolvedor
+
+```diff
++ Nome: Pablo
++ Raça: Dark Elf
++ Classe: Front-End Developer
++ Elemento: Fogo & Sombras
++ Especialidade: html,Css,Javascript
++ Status: Subindo de nível constantemente ⚡
+🗡️ Arsenal Arcano
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </p>
+🔥 Poder Arcano (Status do Reino)
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pablo-br-3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-br-3&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🏆 Conquistas do Reino Sombrio
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pablo-br-3&theme=onestar&no-frame=true&row=1&column=7" /> </p>
+🔥 Chama Eterna (Streak de Batalhas)
+<p align="center"> <img src="https://streak-stats.demolab.com?user=pablo-br-3&theme=highcontrast&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" /> </p>
+🌌 Energia Sombria Ativa
+<p align="center"> <img src="https://media.giphy.com/media/10bKPDUM5H7m7u/giphy.gif" width="450" /> </p>
+<p align="center"> 🩸 “Das sombras nasce o código. Do código nasce o poder.” 🩸 </p>
