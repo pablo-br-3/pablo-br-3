@@ -5,10 +5,9 @@
 </h1>
 
 ```diff
-<p align="left" >
-  🔥 Aprendiz em HTML, CSS & JavaScript <br>
-  ⚔️ Evoluindo para dominar o Full Stack
-</p>
+
+🔥 Aprendiz em HTML, CSS & JavaScript <br>
+⚔️ Evoluindo para dominar o Full Stack
 
 
 + Nome: Pablo
