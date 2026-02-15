@@ -1,11 +1,11 @@
-<h1 align="left">
+<h1 align="left" >
   <img src="https://img.icons8.com/ios-filled/50/ff0000/moon-symbol.png" width="18"/>
   Pablo | Front-End Developer
   <img src="https://img.icons8.com/ios-filled/50/ff0000/drop-of-blood.png" width="18"/>
 </h1>
 
 
-<p align="left">
+<p align="left" style="padding-left:0.5">
   🔥 Aprendiz em HTML, CSS & JavaScript <br>
   ⚔️ Evoluindo para dominar o Full Stack
 </p>
