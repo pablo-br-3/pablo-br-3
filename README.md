@@ -1,21 +1,20 @@
-<h1 align="center">🧝‍♂️ Pablo — Dark Elf  🩸</h1>
+<h1 align="center"> 🩸  — Pablo  —  🩸 </h1>
 
 <p align="center">
-  🌑 Front-End Developer das Sombras <br>
+  🌑 Front-End Developer  <br>
   🔥 Aprendiz em HTML, CSS & JavaScript <br>
   ⚔️ Evoluindo para dominar o Full Stack
 </p>
 
 ---
 
-## 🩸 Lore do Desenvolvedor
+
 
 ```diff
 + Nome: Pablo
-+ Raça: Dark Elf
 + Classe: Front-End Developer
 + Elemento: Fogo & Sombras
-+ Especialidade: html,Css,Javascript
++ Especialidade: HTML,CSS,Javascript
 + Status: Subindo de nível constantemente ⚡
 🗡️ Arsenal Arcano
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </p>
