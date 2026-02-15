@@ -13,7 +13,6 @@
 ```diff
 + Nome: Pablo
 + Classe: Front-End Developer
-+ Elemento: Fogo & Sombras
 + Especialidade: HTML,CSS,Javascript
 + Status: Subindo de nível constantemente ⚡
 🗡️ Arsenal Arcano
