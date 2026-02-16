@@ -19,4 +19,6 @@
 ```diff
 + Status: Subindo de nível constantemente ⚡
 ```
-<img width="1536" height="1024" alt="ChatGPT Image 14_02_2026, 23_07_58" src="https://github.com/user-attachments/assets/80366130-a3b2-498f-ac74-2684087239df" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablo-br-3&theme=dark&border_radius=0&locale=pt_BR)](https://git.io/streak-stats)
+<img width="1536" height="1024" alt="ChatGPT Image 14_02_2026, 23_07_58" src="https://github.com/user-attachments/assets/80366130-a3b2-498f-ac74-2684087239df" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-br-3&theme=2077)
