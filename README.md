@@ -21,4 +21,4 @@
 ```
 <img width="1536" height="1024" alt="ChatGPT Image 14_02_2026, 23_07_58" src="https://github.com/user-attachments/assets/80366130-a3b2-498f-ac74-2684087239df" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-br-3&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablo-br-3&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-br-3&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablo-br-3&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pablo-br-3&theme=2077&utcOffset=8)
