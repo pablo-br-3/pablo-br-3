@@ -25,6 +25,6 @@
  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pablo-br-3&theme=2077&utcOffset=-3" />
  <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablo-br-3&theme=2077" 
-  width="100%" 
+  width="50%" 
 />
 
